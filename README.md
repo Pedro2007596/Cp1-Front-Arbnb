@@ -16,8 +16,9 @@ Este projeto é uma recriação em **HTML e CSS** da página de um imóvel no Ai
 
 ## 👨‍💻 Integrantes do Projeto
 
-- **[Seu Nome Aqui]**
-- *(Adicione mais nomes se houverem outros integrantes)*
+- **Pedro Henrique Sartorelli Ferreira**
+- **Nathália Cordeiro**
+- **Bruno Bagattini**
 
 ---
 
